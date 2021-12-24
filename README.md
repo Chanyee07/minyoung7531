@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @minyoung7531
+- 👀 I’m interested in creating a code that help people to solve their complexed mathematic equations.
+- 🌱 I’m currently learning Python and Java.
+- 📫 How to reach me ... [danielpark7531@gmail.com]
