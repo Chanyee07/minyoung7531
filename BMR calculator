@@ -18,10 +18,10 @@ elif a == 'female':
     fheight = int(input('What is your height?'))
     fage = int(input('How old are you?'))
     print('')
-    print('Your BMR is',655.1+(13.75*mweight)+(5*mheight)-(6.76-mage),'kcal')
+    print('Your BMR is',655.1+(13.75*fweight)+(5*fheight)-(6.76-fage),'kcal')
     print('')
     foodlist()
     
 # How to calculate BMR -->
-# male: 66.47 + (13.75 * weight)+ (5 * height) - (6.76 - age)
-# female: 655.1 + (13.75 * weight)+ (5 * height) - (6.76 - age)
+# male: 66.47 + (13.75 * weight) + (5 * height) - (6.76 - age)
+# female: 655.1 + (13.75 * weight) + (5 * height) - (6.76 - age)
