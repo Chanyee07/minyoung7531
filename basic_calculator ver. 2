@@ -51,4 +51,5 @@ add()
 subtract()
 divide()
 
-# November 29, 2021 | Strength: calculation allows negative, positive, and decimals. + Calculate the written equation from the user.
+
+Strength: calculation allows negative, positive, and decimals. + Calculate the written equation from the user.
