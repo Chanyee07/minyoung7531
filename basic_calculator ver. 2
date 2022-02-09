@@ -53,3 +53,5 @@ divide()
 
 
 Strength: calculation allows negative, positive, and decimals. + Calculate the written equation from the user.
+
+print("안녕 민영야")
